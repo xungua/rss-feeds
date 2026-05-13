@@ -10,7 +10,7 @@ from utils import fetch_page, save_rss_feed, setup_feed_links, setup_logging, so
 
 logger = setup_logging()
 
-FEED_NAME = "humanlayer"
+FEED_NAME = "humanlayer_v2"
 BLOG_URL = "https://www.humanlayer.dev/blog"
 BASE_URL = "https://www.humanlayer.dev"
 

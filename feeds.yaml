@@ -80,12 +80,12 @@ feeds:
     type: requests
     blog_url: https://groq.com/blog/
 
-  humanlayer:
+  humanlayer_v2:
     script: humanlayer_blog.py
     type: requests
     blog_url: https://www.humanlayer.dev/blog
 
-  mariozechner:
+  mariozechner_v2:
     script: mariozechner_blog.py
     type: requests
     blog_url: https://mariozechner.at
