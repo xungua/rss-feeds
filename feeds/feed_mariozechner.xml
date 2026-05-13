@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Mario Zechner</title>
+    <link>https://mariozechner.at</link>
+    <description>Blog by Mario Zechner - developer, coach, speaker</description>
+    <atom:link href="https://raw.githubusercontent.com/xungua/rss-feeds/main/feeds/feed_mariozechner.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 May 2026 09:21:39 +0000</lastBuildDate>
+    <item>
+      <title>I've sold out</title>
+      <link>https://mariozechner.at/posts/2026-04-08-ive-sold-out/</link>
+      <description>I've sold out</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2026-04-08-ive-sold-out/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on slowing the fuck down</title>
+      <link>https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/</link>
+      <description>Thoughts on slowing the fuck down</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Year in Review 2025</title>
+      <link>https://mariozechner.at/posts/2025-12-22-year-in-review-2025/</link>
+      <description>Year in Review 2025</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-12-22-year-in-review-2025/</guid>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What I learned building an opinionated and minimal coding agent</title>
+      <link>https://mariozechner.at/posts/2025-11-30-pi-coding-agent/</link>
+      <description>What I learned building an opinionated and minimal coding agent</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-11-30-pi-coding-agent/</guid>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Armin is wrong and here's why</title>
+      <link>https://mariozechner.at/posts/2025-11-22-armin-is-wrong/</link>
+      <description>Armin is wrong and here's why</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-11-22-armin-is-wrong/</guid>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What if you don't need MCP at all?</title>
+      <link>https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/</link>
+      <description>What if you don't need MCP at all?</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/</guid>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infinite Footguns: Writing a JavaScript Interpreter in JavaScript</title>
+      <link>https://mariozechner.at/posts/2025-10-05-jailjs/</link>
+      <description>Infinite Footguns: Writing a JavaScript Interpreter in JavaScript</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-10-05-jailjs/</guid>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP vs CLI: Benchmarking Tools for Coding Agents</title>
+      <link>https://mariozechner.at/posts/2025-08-15-mcp-vs-cli/</link>
+      <description>MCP vs CLI: Benchmarking Tools for Coding Agents</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-08-15-mcp-vs-cli/</guid>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patching Claude Code for debugging and /cost support for Max users</title>
+      <link>https://mariozechner.at/posts/2025-08-06-cc-antidebug/</link>
+      <description>Patching Claude Code for debugging and /cost support for Max users</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-08-06-cc-antidebug/</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>cchistory: Tracking Claude Code System Prompt and Tool Changes</title>
+      <link>https://mariozechner.at/posts/2025-08-03-cchistory/</link>
+      <description>cchistory: Tracking Claude Code System Prompt and Tool Changes</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-08-03-cchistory/</guid>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prompts are code, .json/.md files are state</title>
+      <link>https://mariozechner.at/posts/2025-06-02-prompts-are-code/</link>
+      <description>Prompts are code, .json/.md files are state</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-06-02-prompts-are-code/</guid>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boxie - an always offline audio player for my 3 year old</title>
+      <link>https://mariozechner.at/posts/2025-04-20-boxie/</link>
+      <description>Boxie - an always offline audio player for my 3 year old</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-04-20-boxie/</guid>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electronic Nights III - Animated LEDs and Buttons</title>
+      <link>https://mariozechner.at/posts/2024-08-22-electronic-nights-3/</link>
+      <description>Electronic Nights III - Animated LEDs and Buttons</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-08-22-electronic-nights-3/</guid>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electronic Nights II - Basic Circuits</title>
+      <link>https://mariozechner.at/posts/2024-08-05-electronic-nights-2/</link>
+      <description>Electronic Nights II - Basic Circuits</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-08-05-electronic-nights-2/</guid>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electronic Nights I - Getting Started</title>
+      <link>https://mariozechner.at/posts/2024-07-25-electronic-nights-1/</link>
+      <description>Electronic Nights I - Getting Started</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-25-electronic-nights-1/</guid>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>macOS code injection for fun and no profit</title>
+      <link>https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/</link>
+      <description>macOS code injection for fun and no profit</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/</guid>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two years in review</title>
+      <link>https://mariozechner.at/posts/2024-07-15-two-years-in-review/</link>
+      <description>Two years in review</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-15-two-years-in-review/</guid>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dissecting history</title>
+      <link>https://mariozechner.at/posts/2024-07-14-dissecting-history/</link>
+      <description>Dissecting history</description>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-14-dissecting-history/</guid>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

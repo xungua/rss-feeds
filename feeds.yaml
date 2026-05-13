@@ -85,6 +85,11 @@ feeds:
     type: requests
     blog_url: https://www.humanlayer.dev/blog
 
+  mariozechner:
+    script: mariozechner_blog.py
+    type: requests
+    blog_url: https://mariozechner.at
+
   meta_ai:
     script: meta_ai_blog.py
     type: selenium
