@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>HumanLayer Blog</title>
+    <link>https://www.humanlayer.dev/blog</link>
+    <description>Insights on AI agents, LLM applications, and the future of human-AI collaboration.</description>
+    <atom:link href="https://raw.githubusercontent.com/xungua/rss-feeds/main/feeds/feed_humanlayer.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 May 2026 09:13:17 +0000</lastBuildDate>
+    <item>
+      <title>Long-Context Isn't the Answer</title>
+      <link>https://www.humanlayer.dev/blog/long-context-isnt-the-answer</link>
+      <description>We tried Opus with 1M context for coding agents, and now we're switching back. It turns out it's not about the size of the context window - it's about the quality.</description>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/long-context-isnt-the-answer</guid>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Getting Claude to Actually Read Your CLAUDE.md</title>
+      <link>https://www.humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md</link>
+      <description>Using conditional XML blocks to make Claude pay attention to the right instructions at the right time.</description>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skill Issue: Harness Engineering for Coding Agents</title>
+      <link>https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents</link>
+      <description>Harness engineering is the art and science of leveraging your coding agent's configuration points to improve output quality and increase task success rates.</description>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Brief History of Ralph</title>
+      <link>https://www.humanlayer.dev/blog/brief-history-of-ralph</link>
+      <description>The Ralph Wiggum Technique went viral in the last week of 2025. Here's the story of ralph since the first time I met Geoff in June of 2025.</description>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/brief-history-of-ralph</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Context-Efficient Backpressure for Coding Agents</title>
+      <link>https://www.humanlayer.dev/blog/context-efficient-backpressure</link>
+      <description>Verbose test and build output wastes tokens and confuses agents. A simple wrapper script can dramatically improve agent performance.</description>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/context-efficient-backpressure</guid>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Writing a good CLAUDE.md</title>
+      <link>https://www.humanlayer.dev/blog/writing-a-good-claude-md</link>
+      <description>CLAUDE.mdis a high-leverage configuration point for Claude Code. Learning how to write a goodCLAUDE.md(orAGENTS.md) is a key skill for agent-enabled software engineering.</description>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/writing-a-good-claude-md</guid>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advanced Context Engineering for Coding Agents</title>
+      <link>https://www.humanlayer.dev/blog/advanced-context-engineering</link>
+      <description>How do we get AI coding agents to solve hard problems in complex, brownfield codebases?</description>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/advanced-context-engineering</guid>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>12 Factor Agents</title>
+      <link>https://www.humanlayer.dev/blog/12-factor-agents</link>
+      <description>The Original12 Factor AgentsManifesto. What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?</description>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/12-factor-agents</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

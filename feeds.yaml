@@ -80,6 +80,11 @@ feeds:
     type: requests
     blog_url: https://groq.com/blog/
 
+  humanlayer:
+    script: humanlayer_blog.py
+    type: requests
+    blog_url: https://www.humanlayer.dev/blog
+
   meta_ai:
     script: meta_ai_blog.py
     type: selenium
