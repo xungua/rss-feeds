@@ -4,6 +4,8 @@ import pytz
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
+import time
+
 from utils import fetch_page, save_rss_feed, setup_feed_links, setup_logging, sort_posts_for_feed, stable_fallback_date
 
 logger = setup_logging()
@@ -59,8 +61,21 @@ def parse_blog_page(html_content):
             "link": full_url,
             "description": description,
             "date": pub_date,
+            "content": "",
         })
         logger.info(f"Parsed: {title}")
+
+    for post in blog_posts:
+        try:
+            time.sleep(1)
+            page_html = fetch_page(post["link"])
+            page_soup = BeautifulSoup(page_html, "html.parser")
+            prose = page_soup.find("div", class_="prose")
+            if prose:
+                post["content"] = str(prose)
+                logger.info(f"Fetched content for: {post['title']}")
+        except Exception as e:
+            logger.warning(f"Could not fetch content for {post['title']}: {e!s}")
 
     return sort_posts_for_feed(blog_posts)
 
@@ -80,6 +95,8 @@ def generate_rss_feed(blog_posts):
         fe.link(href=post["link"])
         fe.published(post["date"])
         fe.id(post["link"])
+        if post.get("content"):
+            fe.content(post["content"], type="html")
 
     return fg
 

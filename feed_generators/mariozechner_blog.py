@@ -1,4 +1,5 @@
 import re
+import time
 from datetime import datetime
 
 import pytz
@@ -43,8 +44,21 @@ def parse_blog_page(html_content):
             "link": full_url,
             "description": title,
             "date": pub_date,
+            "content": "",
         })
         logger.info(f"Parsed: {title}")
+
+    for post in blog_posts:
+        try:
+            time.sleep(1)
+            page_html = fetch_page(post["link"])
+            page_soup = BeautifulSoup(page_html, "html.parser")
+            article = page_soup.find("article")
+            if article:
+                post["content"] = str(article)
+                logger.info(f"Fetched content for: {post['title']}")
+        except Exception as e:
+            logger.warning(f"Could not fetch content for {post['title']}: {e!s}")
 
     return sort_posts_for_feed(blog_posts)
 
@@ -64,6 +78,8 @@ def generate_rss_feed(blog_posts):
         fe.link(href=post["link"])
         fe.published(post["date"])
         fe.id(post["link"])
+        if post.get("content"):
+            fe.content(post["content"], type="html")
 
     return fg
 
