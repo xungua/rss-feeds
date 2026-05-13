@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 09:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 09:49:41 +0000</lastBuildDate>
     <item>
       <title>Long-Context Isn't the Answer</title>
       <link>https://www.humanlayer.dev/blog/long-context-isnt-the-answer</link>
@@ -76,7 +76,7 @@ As I wrote about in that post, sub-agents encapsulate context and ensure that on
 &lt;li&gt;More context isn't more capability - the instruction budget doesn't scale with the context window.&lt;/li&gt;
 &lt;li&gt;Context isolation beats context expansion. Sub-agents, progressive disclosure, and &lt;a class="underline hover:opacity-80 transition-opacity" href="https://www.humanlayer.dev/blog/context-efficient-backpressure" rel="noopener noreferrer" style="color:var(--accent)" target="_blank"&gt;context-efficient backpressure&lt;/a&gt; keep each context window small, focused, and in the smart zone.&lt;/li&gt;
 &lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://www.humanlayer.dev/blog/long-context-isnt-the-answer</guid>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/long-context-isnt-the-answer#v2</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -104,7 +104,7 @@ As I wrote about in that post, sub-agents encapsulate context and ensure that on
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;Then in your project:&lt;/p&gt;
 &lt;pre class="group"&gt;&lt;pre class="prismjs rsh-code-block grid relative min-w-[250px] mb-6 bg-gray-400/5 p-4"&gt;&lt;button aria-label="Copy code" class="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-none text-sm font-mono font-medium cursor-pointer disabled:cursor-not-allowed disabled:pointer-events-none disabled:opacity-50 [&amp;amp;_svg]:pointer-events-none [&amp;amp;_svg:not([class*='size-'])]:size-4 shrink-0 [&amp;amp;_svg]:shrink-0 outline-none focus-visible:ring-[3px] uppercase tracking-wider border bg-transparent text-[var(--accent)] border-transparent hover:bg-[var(--accent)]/10 hover:border-[var(--accent)] focus-visible:border-[var(--accent)] focus-visible:ring-[var(--accent)]/50 size-9 absolute top-2 right-1 h-6 w-6 opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-10" data-slot="button" title="Copy code"&gt;&lt;svg aria-hidden="true" class="lucide lucide-copy h-3 w-3" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"&gt;&lt;rect height="14" rx="2" ry="2" width="14" x="8" y="8"&gt;&lt;/rect&gt;&lt;path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/button&gt;&lt;code class="overflow-x-auto" style="white-space:pre"&gt;&lt;span class=""&gt;/improve-claude-md&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/pre&gt;
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;It reads your existing CLAUDE.md and outputs a rewritten version. Source is at &lt;a class="underline hover:opacity-80 transition-opacity" href="https://github.com/humanlayer/skills/tree/main/plugins/improve-claude-md" rel="noopener noreferrer" style="color:var(--accent)" target="_blank"&gt;github.com/humanlayer/skills&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://www.humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md</guid>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md#v2</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -370,7 +370,7 @@ As I wrote about in that post, sub-agents encapsulate context and ensure that on
 &lt;li&gt;Giving the agent a set of capabilities (Linear) and then carefully paring down what we exposed to the model once we knew what we needed.&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;The next time your coding agent isn’t performing the way you expect, before you blame the model, check the harness. Agentfiles, MCP servers, skills, sub-agents, hooks, and back-pressure — that’s where we’ve found most of the leverage. The model is probably fine. It’s just a skill issue.&lt;/p&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents</guid>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents#v2</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -486,7 +486,7 @@ As I wrote about in that post, sub-agents encapsulate context and ensure that on
 &lt;h3 class="text-2xl mb-2 mt-16 font-bold" style="color:var(--text-primary)"&gt;### &lt;!-- --&gt;PPPS&lt;/h3&gt;
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;i guess we have a meme coin now...pack it up y'all its over, see you for the next memetic mind virus&lt;/p&gt;
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;&lt;a class="underline hover:opacity-80 transition-opacity" href="https://x.com/GeoffreyHuntley/status/2008142361344504162" rel="noopener noreferrer" style="color:var(--accent)" target="_blank"&gt;&lt;img alt="ralph-coin" class="max-w-full h-auto my-4 rounded-none" src="/blog/brief-history-of-ralph/ralph-coin.png" style="border:1px solid var(--border-color)"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://www.humanlayer.dev/blog/brief-history-of-ralph</guid>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/brief-history-of-ralph#v2</guid>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -565,7 +565,7 @@ As I wrote about in that post, sub-agents encapsulate context and ensure that on
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;Okay fine, opining time: things are this way because labs have to take big swings and the majority of their potential user base doesn't know how (or want to learn how) to do context engineering well. Sure, "don't make me think". But also, &lt;strong style="color:var(--text-primary)"&gt;let me think if I want to&lt;/strong&gt;.&lt;/p&gt;
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;&lt;a class="underline hover:opacity-80 transition-opacity" href="https://x.com/gingerhendrixai/status/1998082340019446203" rel="noopener noreferrer" style="color:var(--accent)" target="_blank"&gt;&lt;img alt="gareth-tweet" class="max-w-full h-auto my-4 rounded-none" src="/blog/context-efficient-backpressure/gareth.png" style="border:1px solid var(--border-color)"/&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;As we always say - deterministic is better than non-deterministic. If you already know what matters, don't leave it to a model to churn through 1000s of junk tokens to decide.&lt;/p&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://www.humanlayer.dev/blog/context-efficient-backpressure</guid>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/context-efficient-backpressure#v2</guid>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -663,7 +663,7 @@ Depending on the model you're using, that's nearly a third of the instructions y
 &lt;li&gt;Claude is not a linter. Use linters and code formatters, and use other features like &lt;a class="underline hover:opacity-80 transition-opacity" href="https://code.claude.com/docs/en/hooks" rel="noopener noreferrer" style="color:var(--accent)" target="_blank"&gt;Hooks&lt;/a&gt; and &lt;a class="underline hover:opacity-80 transition-opacity" href="https://code.claude.com/docs/en/slash-commands" rel="noopener noreferrer" style="color:var(--accent)" target="_blank"&gt;Slash Commands&lt;/a&gt; as necessary.&lt;/li&gt;
 &lt;li&gt;&lt;strong style="color:var(--text-primary)"&gt;&lt;code class="px-2 py-0.5 rounded font-mono bg-[var(--code-bg)] text-[var(--accent)] border border-[var(--code-border)] tracking-tight shadow-sm mr-1 align-middle wrap-anywhere box-decoration-clone"&gt;CLAUDE.md&lt;/code&gt; is the highest leverage point of the harness&lt;/strong&gt;, so avoid auto-generating it. You should carefully craft its contents for best results.&lt;/li&gt;
 &lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://www.humanlayer.dev/blog/writing-a-good-claude-md</guid>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/writing-a-good-claude-md#v2</guid>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -926,7 +926,7 @@ A guaranteed side effect of everyone shipping way more code is that a much large
 &lt;li&gt;Thanks Sundeep for weathering this wacky storm&lt;/li&gt;
 &lt;li&gt;Thanks Allison, Geoff, and Gerred for dragging us kicking and screaming into the future&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://www.humanlayer.dev/blog/advanced-context-engineering</guid>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/advanced-context-engineering#v2</guid>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1707,7 +1707,7 @@ you're forced to either:&lt;/p&gt;
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;Okay so we're over 1000 lines of markdown at this point. This one is mostly just for fun.&lt;/p&gt;
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;&lt;img alt="1c0-stateless-reducer" class="max-w-full h-auto my-4 rounded-none" src="/blog/12-factor-agents/1c0-stateless-reducer.png" style="border:1px solid var(--border-color)"/&gt;&lt;/p&gt;
 &lt;p class="mb-4" style="display:block;color:var(--text-secondary)"&gt;&lt;img alt="1c5-agent-foldl" class="max-w-full h-auto my-4 rounded-none" src="/blog/12-factor-agents/1c5-agent-foldl.png" style="border:1px solid var(--border-color)"/&gt;&lt;/p&gt;&lt;/div&gt;</content:encoded>
-      <guid isPermaLink="false">https://www.humanlayer.dev/blog/12-factor-agents</guid>
+      <guid isPermaLink="false">https://www.humanlayer.dev/blog/12-factor-agents#v2</guid>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>

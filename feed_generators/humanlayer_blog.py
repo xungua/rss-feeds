@@ -94,7 +94,7 @@ def generate_rss_feed(blog_posts):
         fe.description(post["description"])
         fe.link(href=post["link"])
         fe.published(post["date"])
-        fe.id(post["link"])
+        fe.id(post["link"] + "#v2")
         if post.get("content"):
             fe.content(post["content"], type="html")
 

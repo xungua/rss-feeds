@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 09:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 09:49:18 +0000</lastBuildDate>
     <item>
       <title>I've sold out</title>
       <link>https://mariozechner.at/posts/2026-04-08-ive-sold-out/</link>
@@ -115,7 +115,7 @@ Pidalf&lt;/p&gt;
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2026-04-08-ive-sold-out/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2026-04-08-ive-sold-out/#v2</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -185,7 +185,7 @@ Pidalf&lt;/p&gt;
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/#v2</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -485,7 +485,7 @@ Pidalf&lt;/p&gt;
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-12-22-year-in-review-2025/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-12-22-year-in-review-2025/#v2</guid>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1148,7 +1148,7 @@ Report the sub-agent's findings.
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-11-30-pi-coding-agent/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-11-30-pi-coding-agent/#v2</guid>
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1255,7 +1255,7 @@ format?: "celsius" | "fahrenheit", // default: celsius
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-11-22-armin-is-wrong/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-11-22-armin-is-wrong/#v2</guid>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1717,7 +1717,7 @@ Interactive element picker. Click to select, Cmd/Ctrl+Click for multi-select, En
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/#v2</guid>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1959,7 +1959,7 @@ arr.&lt;span class="hljs-title function_"&gt;push&lt;/span&gt;(); &lt;span class
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-10-05-jailjs/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-10-05-jailjs/#v2</guid>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3009,7 +3009,7 @@ npx tsx &lt;span class="hljs-built_in"&gt;test&lt;/span&gt;/eval/stats.ts
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-08-15-mcp-vs-cli/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-08-15-mcp-vs-cli/#v2</guid>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3069,7 +3069,7 @@ npx @mariozechner/cc-antidebug restore
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-08-06-cc-antidebug/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-08-06-cc-antidebug/#v2</guid>
       <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3299,7 +3299,7 @@ pre code {
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-08-03-cchistory/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-08-03-cchistory/#v2</guid>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -4578,7 +4578,7 @@ Custom implementations for all containers, minimal stdlib dependency
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-06-02-prompts-are-code/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-06-02-prompts-are-code/#v2</guid>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -4898,7 +4898,7 @@ Custom implementations for all containers, minimal stdlib dependency
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2025-04-20-boxie/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2025-04-20-boxie/#v2</guid>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -5342,7 +5342,7 @@ Serial.&lt;span class="hljs-built_in"&gt;println&lt;/span&gt;();
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2024-08-22-electronic-nights-3/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-08-22-electronic-nights-3/#v2</guid>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -5595,7 +5595,7 @@ Serial.&lt;span class="hljs-built_in"&gt;println&lt;/span&gt;();
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2024-08-05-electronic-nights-2/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-08-05-electronic-nights-2/#v2</guid>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -5763,7 +5763,7 @@ Serial.&lt;span class="hljs-built_in"&gt;println&lt;/span&gt;();
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-25-electronic-nights-1/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-25-electronic-nights-1/#v2</guid>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -6200,7 +6200,7 @@ make
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/#v2</guid>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -6636,7 +6636,7 @@ to "Meta Boy". It's an inside joke.&lt;/p&gt;
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-15-two-years-in-review/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-15-two-years-in-review/#v2</guid>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -6744,7 +6744,7 @@ to "Meta Boy". It's an inside joke.&lt;/p&gt;
     This page respects your privacy by not using cookies or similar technologies and by not collecting any personally identifiable information.
 &lt;/div&gt;
 &lt;/article&gt;</content:encoded>
-      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-14-dissecting-history/</guid>
+      <guid isPermaLink="false">https://mariozechner.at/posts/2024-07-14-dissecting-history/#v2</guid>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
