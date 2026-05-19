@@ -4,11 +4,11 @@
     <title>Mario Zechner</title>
     <link>https://mariozechner.at</link>
     <description>Blog by Mario Zechner - developer, coach, speaker</description>
-    <atom:link href="https://raw.githubusercontent.com/xungua/rss-feeds/main/feeds/feed_mariozechner.xml" rel="self"/>
+    <atom:link href="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mariozechner_v2.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 09:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:09:10 +0000</lastBuildDate>
     <item>
       <title>I've sold out</title>
       <link>https://mariozechner.at/posts/2026-04-08-ive-sold-out/</link>
