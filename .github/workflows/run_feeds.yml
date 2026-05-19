@@ -9,6 +9,9 @@ concurrency:
   group: request-feeds
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 jobs:
   run-feeds:
     runs-on: ubuntu-latest

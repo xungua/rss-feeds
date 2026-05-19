@@ -9,6 +9,9 @@ concurrency:
   group: selenium-feeds
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 jobs:
   run-selenium-feeds:
     runs-on: ubuntu-latest
